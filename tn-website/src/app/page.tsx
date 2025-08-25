@@ -12,7 +12,7 @@ export default function Home() {
         <h1 className="text-white text-[45px]">Tyler Nguyen</h1>
         <div className="h-[13px] w-[89%] bg-[#FEF62A]"></div>
         <h2 className="text-[35px]">Full-Stack Engineer</h2>
-        <p>I'm a Full-Stack Developer, and a current Computer Science student. I am engaged in </p>
+        <p className="text-[20px] w-[50%]">I'm a Full-Stack Developer, and a Computer Science student.  </p>
       </div>
     </main>
   );
